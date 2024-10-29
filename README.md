@@ -57,5 +57,5 @@ upNext is a simple and efficient To-Do list application that helps you organize 
 
 ### Data Management
 
-
+Tasks are stored in the browser's **local storage**. The `saveToLS` function ensures that the latest tasks list is saved after every operation. This helps maintain the app state even after page refreshes.
 
