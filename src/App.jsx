@@ -72,7 +72,7 @@ function App() {
   return (
     <>
     <Navbar/>
-      <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-violet-100 min-h-[80vh] md:w-1/2">
+      <div className="mx-3 md:container md:mx-auto my-5 rounded-xl p-5 bg-violet-100 min-h-[90vh] md:w-3/4">
       <h1 className='font-bold text-center text-3xl'>UpNext - Always know what's next</h1>
         <div className="addTodo my-5 flex flex-col gap-4">
           <h2 className='text-xl font-bold'>Add a Todo</h2>
